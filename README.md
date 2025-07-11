@@ -20,15 +20,6 @@ A real-time object detection system using **YOLOv8l** on a **Raspberry Pi 5 (64-
 
 ---
 
-## 🖥️ Demo
-
-https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/assets/your_video_demo.mp4 *(Upload your demo here)*
-
----
-
-
----
-
 ## ⚙️ Setup Instructions
 
 ### ✅ Prerequisites
