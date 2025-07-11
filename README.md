@@ -26,14 +26,30 @@ https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/assets/your_video_demo.mp4 *(Upl
 
 ---
 
-## 📁 Project Structure
 
-.
-├── app.py # Main Flask or CLI application
-├── yolov8_inference.py # YOLOv8 detection logic
-├── hailo_integration.py # Hailo AI accelerator code
-├── camera_module.py # Raspberry Pi Camera interface
-├── static/ # For images/videos (if web UI)
-├── requirements.txt
-└── README.md
+---
+
+## ⚙️ Setup Instructions
+
+### ✅ Prerequisites
+
+- Raspberry Pi 5 (64-bit OS)
+- Python 3.9+
+- Raspberry Pi Camera Module V3
+- Optional: Hailo-8 AI accelerator + Hailo SDK
+
+### 🔧 Installation
+
+```bash
+# Clone this repository
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+cd YOUR_REPO_NAME
+
+# (Optional) Create virtual environment
+python3 -m venv venv
+source venv/bin/activate
+
+# Install required packages
+pip install -r requirements.txt
+
 
