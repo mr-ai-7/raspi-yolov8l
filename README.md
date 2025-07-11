@@ -28,3 +28,12 @@ https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/assets/your_video_demo.mp4 *(Upl
 
 ## 📁 Project Structure
 
+.
+├── app.py # Main Flask or CLI application
+├── yolov8_inference.py # YOLOv8 detection logic
+├── hailo_integration.py # Hailo AI accelerator code
+├── camera_module.py # Raspberry Pi Camera interface
+├── static/ # For images/videos (if web UI)
+├── requirements.txt
+└── README.md
+
