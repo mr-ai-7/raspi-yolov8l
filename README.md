@@ -34,5 +34,3 @@ Press `q` to exit.
 - libcamera (for Raspberry Pi camera)
 - ROS 2 + RTAB-Map (for full SLAM integration)
 
-## 🛠️ Note
-You can replace `yolov8l.pt` with `.hef` file for Hailo acceleration in future.
