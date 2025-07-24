@@ -135,12 +135,3 @@ Integrated Ultralytics YOLOv8 with OpenCV.
 
 ---
 
-## 📬 Contributing
-
-Feel free to fork this repo, open issues, or submit pull requests to improve the pipeline and expand features!
-
----
-
-## 📄 License
-
-MIT License
